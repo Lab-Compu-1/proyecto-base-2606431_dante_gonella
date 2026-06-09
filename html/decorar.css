@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+    margin: 5%;
+}   
+
+p{
+    color: brown;
+    font-size: 20px;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+div p{
+    color: blue;
+}
+
+/*Voy a probar los ids*/
+#Parrafo-especialito{
+    font-weight: bold;
+    font-size: 20px;
+}
+    
+.hermanos{
+    color: blueviolet;
+}
